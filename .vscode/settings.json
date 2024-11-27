@@ -1,0 +1,6 @@
+{
+  "files.eol": "\n",
+  "javascript.suggest.paths": false,
+  "jest.jestCommandLine": "node_modules/.bin/jest",
+  "typescript.suggest.paths": false
+}

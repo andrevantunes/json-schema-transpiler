@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "baseUrl": "./src",
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+    "rootDir": "./src",
+    "declaration": true,
+    "outDir": "./dist",
+    "removeComments": true,
+    "allowJs": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "isolatedModules": true,
+    "target": "ES6",
+    "skipLibCheck": true
+  },
+  "include": [
+    "src/**/*.d.ts",
+    "src/**/*.ts",
+    "src/**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules/",
+    "**/*.test.ts",
+    "**/*.spec.ts",
+    "**/*.fixture.ts",
+  ]
+}

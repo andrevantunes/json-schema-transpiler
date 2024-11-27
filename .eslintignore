@@ -1,0 +1,9 @@
+# compiled files
+dist/
+bin/
+
+# vscode user-specifig files
+.vscode/
+
+# Jetbrains Intellij-based IDEs
+.idea/
